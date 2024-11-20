@@ -9,7 +9,7 @@ This project includes bash scripts for automating multiple sequential setup task
 
 1. Clone the repository:
     ```bash
-    git clone https://github.comjbd-tric/setup_scripts.git
+    git clone https://github.com:jbd-tric/setup_scripts.git
     ```
 2. Modify files to be executable:
     ```bash
